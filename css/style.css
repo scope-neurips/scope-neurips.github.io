@@ -128,8 +128,8 @@ section.smaller {
 
 .profpic .profname2line {
     text-align: center;
-    font-size: large;
-    height: 47px;
+    font-size: small;
+    height: 20px;
     margin-top: 15px;
     margin-bottom: 5px;
     color: black;
@@ -142,7 +142,7 @@ section.smaller {
 
 .profpic .profname {
   text-align: center;
-  font-size: large;
+  font-size: small;
   height: 20px;
   margin-top: 15px;
   margin-bottom: 5px;
